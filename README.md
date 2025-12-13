@@ -64,6 +64,7 @@
 
 📞 Поддержка
 💬 Discord: [SkyVisual Community](https://discord.gg/3wXVwEvnuD)
+
 🐛 Баги: [SkyVisual Community](https://discord.gg/3wXVwEvnuD)
 
 ---
