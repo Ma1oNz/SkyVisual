@@ -66,7 +66,7 @@
 
 ### Способ 1: Готовый EXE (рекомендуется)
 
-1. Скачайте последний релиз из [Releases](https://github.com/username/skyvisual/releases)
+1. Скачайте последний релиз из [Releases](https://github.com/Ma1oNz/skyvisual/releases)
 2. Запустите `SkyVisualSetup.exe`
 3. Следуйте инструкциям установщика
 4. Готово! 🎉
@@ -75,7 +75,7 @@
 
 ```bash
 # Клонируйте репозиторий
-git clone https://github.com/username/skyvisual.git
+git clone https://github.com/Ma1oNz/skyvisual.git
 cd skyvisual
 
 # Установите зависимости
